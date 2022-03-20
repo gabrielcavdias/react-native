@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app06_aleatorio",
+    "slug": "app06_aleatorio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
