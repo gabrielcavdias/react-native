@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app07_formulario",
+    "slug": "app07_formulario",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app04_combustivel",
+    "slug": "app04_combustivel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app05_imc",
+    "slug": "app05_imc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
