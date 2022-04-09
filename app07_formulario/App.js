@@ -205,7 +205,7 @@ export default function App() {
             justifyContent: "space-between",
           }}
         >
-          <Text style={styles.text}>Nacionalidade:</Text>
+          <Text style={styles.text}>Brasileiro:</Text>
           <Switch
             value={account.nacionalidade == "br" ? true : false}
             onValueChange={value => {
